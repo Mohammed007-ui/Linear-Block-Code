@@ -74,7 +74,8 @@ if __name__ == "__main__":
 
 Output
 ![Image](https://github.com/user-attachments/assets/1cdd8497-d121-4cc3-9553-712af68ad9e9)
-
+MANUAL CALCULATIONS:
+![WhatsApp Image 2025-04-12 at 15 34 12_9a03363f](https://github.com/user-attachments/assets/2285614b-c1d7-4bcd-bbea-a7552e41693c)
 ![Image](https://github.com/user-attachments/assets/0853b579-f0a4-4a5e-a988-67ad8ad190c6)
 ![Image](https://github.com/user-attachments/assets/ceceec4f-5193-4f34-8f49-79ea8b1bed35)
 
