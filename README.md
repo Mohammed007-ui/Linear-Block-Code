@@ -1,5 +1,7 @@
 # Linear-Block-Code
+```
 Aim
+```
 The aim of implementing a linear block code is to:
 
 Understand error detection and correction in digital communication systems
@@ -9,8 +11,9 @@ Implement encoding and decoding processes for linear block codes
 Analyze the error-correcting capability of different codes
 
 Demonstrate how parity bits are added to message bits to form codewords
-
+```
 Tools Required
+```
 Programming language (Python, MATLAB, C++, etc.)
 
 Libraries for matrix operations (NumPy for Python)
@@ -71,13 +74,17 @@ if __name__ == "__main__":
     received = np.array([1, 0, 1, 1, 1, 1, 1])
     syndrome = lbc.syndrome_decode(received)
     print("Syndrome:", syndrome)
-
+```
 Output
+```
 ![Image](https://github.com/user-attachments/assets/1cdd8497-d121-4cc3-9553-712af68ad9e9)
+```
 MANUAL CALCULATIONS:
-![WhatsApp Image 2025-04-12 at 15 34 12_9a03363f](https://github.com/user-attachments/assets/2285614b-c1d7-4bcd-bbea-a7552e41693c)
-![Image](https://github.com/user-attachments/assets/0853b579-f0a4-4a5e-a988-67ad8ad190c6)
-![Image](https://github.com/user-attachments/assets/ceceec4f-5193-4f34-8f49-79ea8b1bed35)
-
+```
+![WhatsApp Image 2025-04-12 at 15 34 11_57640a34](https://github.com/user-attachments/assets/90330063-0e30-4285-84f0-e688925f8284)
+![WhatsApp Image 2025-04-12 at 15 34 12_9a03363f](https://github.com/user-attachments/assets/3772eda7-cd4d-44fe-9949-34ac54a4927f)
+![WhatsApp Image 2025-04-12 at 15 34 12_80af35b5](https://github.com/user-attachments/assets/748723b9-47ea-4709-a8fd-58ed11539980)
+```
 Results
+```
 The (7,4) Hamming code successfully encoded 4-bit messages into 7-bit codewords and detected/corrected single-bit errors. Visualizations clearly showed the generator matrix, encoding process, and error patterns.
