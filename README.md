@@ -77,7 +77,8 @@ if __name__ == "__main__":
 ```
 Output
 ```
-![Image](https://github.com/user-attachments/assets/1cdd8497-d121-4cc3-9553-712af68ad9e9)
+![image](https://github.com/user-attachments/assets/c010f33f-b547-4422-bef9-0a3f200ed124)
+
 ```
 MANUAL CALCULATIONS:
 ```
