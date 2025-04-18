@@ -86,6 +86,14 @@ MANUAL CALCULATIONS:
 ![WhatsApp Image 2025-04-12 at 15 34 12_9a03363f](https://github.com/user-attachments/assets/3772eda7-cd4d-44fe-9949-34ac54a4927f)
 ![WhatsApp Image 2025-04-12 at 15 34 12_80af35b5](https://github.com/user-attachments/assets/748723b9-47ea-4709-a8fd-58ed11539980)
 ```
+Model graph
+```
+![image](https://github.com/user-attachments/assets/98c76699-4a5f-4778-bd4c-3a069c060ce3)
+```
+Graph
+```
+![LBC](https://github.com/user-attachments/assets/9818b5a1-5047-43e0-a760-8995a9416ef5)
+```
 Results
 ```
 The (7,4) Hamming code successfully encoded 4-bit messages into 7-bit codewords and detected/corrected single-bit errors. Visualizations clearly showed the generator matrix, encoding process, and error patterns.
